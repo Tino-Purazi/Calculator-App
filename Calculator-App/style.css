@@ -1,0 +1,95 @@
+table{
+    color:black;
+    font: normal 3em Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-radius: 10px;
+    background-color: white;
+}
+
+tr{
+    height: 16.02vh;
+    background: rgba(228, 32, 169, 0.444);
+}
+
+td{
+    width: 25vw;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+#inputBox{
+    background-color: rgba(228, 32, 169, 0);
+    text-align: right;
+    width:100%;
+    font-size: 2em;
+}
+
+.operator{
+    background-color: rgb(228, 32, 169);
+}
+
+.AC{
+    background-color:deeppink ;
+}
+
+.theme{
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-size: medium;
+    font:Arial, Helvetica, sans-serif;
+    text-wrap: normal;
+}
+
+.theme :hover{
+    color: white;
+    font-size: large;
+    text-transform: capitalize;
+}
+
+/* ===============theme2============== */
+#table2{
+    color:black;
+    font: normal 3em Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: separate;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#tr2{
+    height: 16.02vh;
+    background: rgba(28, 92, 164, 0.685);
+}
+
+td{
+    width: 25vw;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+#inputBox{
+    background-color: white;
+    border: 50px;
+    text-align: right;
+    width:98%;
+    font-size: 2em;
+}
+
+.operator2{
+    background-color: rgb(32, 45, 228);
+}
+
+.AC2{
+    background-color:rgb(20, 137, 255) ;
+}
+
+.theme{
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-size: large;
+    font:Arial, Helvetica, sans-serif;
+    text-wrap: normal;
+}
